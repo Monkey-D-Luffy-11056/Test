@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Boost ta page Facebook",
+    "category": "Business",
+    "type": "free",
+    "content": "Astuces pratiques pour booster gratuitement ta page : régularité, Reels courts, collaborations, groupes locaux, CTA clairs."
+  },
+  {
+    "id": 2,
+    "title": "Tout savoir avant de se marier",
+    "category": "Couple",
+    "type": "paid",
+    "content": "https://paypal.me/tonlienpaiement"
+  },
+  {
+    "id": 3,
+    "title": "Astuces pour les femmes",
+    "category": "Femmes",
+    "type": "free",
+    "content": "Conseils quotidiens : organisation, bien-être, sécurité numérique, gestion du temps."
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Aide G\u00e9n\u00e9rale (Supabase)",
+    "slug": "aide-generale-supabase",
+    "scheme": "aidegenerale",
+    "orientation": "portrait",
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
